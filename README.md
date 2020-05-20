@@ -12,8 +12,12 @@ The algorithm used was a reversed minesweeper.
 Then the binary __./bsq__ takes a file as parameters.<br />
 
 ## Demonstration
+### Example : 100 * 100 map
+A map where we have to find the biggest square <br />
+[![menu.png](https://imgur.com/GEFqMFd.png)](https://imgur.com/GEFqMFd.png)
 
-
+A map where we found the biggest square <br />
+[![menu.png](https://imgur.com/FNOu9eV.png)](https://imgur.com/FNOu9eV.png)
 ## Author
  * Christophe Sourinthone
  
