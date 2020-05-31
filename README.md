@@ -6,7 +6,7 @@ Project made in __C__.
 ## Introduction
 ### Goals and explanation
 The project goals was to produce a program that was fast enough to find a square within a map of different sizes from 1 * 1 to 10 000 * 10 000.<br />
-The algorithm used was a reversed minesweeper.
+The algorithm used was a __reversed minesweeper__.
 
 ### Project length
  * __1 weeks__ while working on 3 others projects in the same time
